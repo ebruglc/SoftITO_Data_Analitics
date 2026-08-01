@@ -17,8 +17,10 @@ repo-adi/
 | # | Proje | Bu Projede Ne Yapıldı | Teknoloji | Durum |
 |---|-------|------------------------|-----------|-------|
 | 01 | [Numpy Temelleri](./Numpy/01-numpy-temelleri) | _(açıklama eklenecek)_ | NumPy | 🚧 Hazırlanıyor |
-| 02 | [Numpy Orta](./Numpy/02-numpy-orta) | _(açıklama eklenecek)_ | NumPy | 🚧 Hazırlanıyor |
-| 03 | [Numpy İleri](./Numpy/03-numpy-ileri) | _(açıklama eklenecek)_ | NumPy | 🚧 Hazırlanıyor |
+| 02 | [Numpy Gelişmiş İşlemler](./Numpy/02-numpy-gelismis-islemler) | _(açıklama eklenecek)_ | NumPy | 🚧 Hazırlanıyor |
+| 03 | [Numpy İleri Düzey İşlemler](./Numpy/03-numpy-ileri-duzey-islemler) | _(açıklama eklenecek)_ | NumPy | 🚧 Hazırlanıyor |
+
+
 
 ## Pandas
 
