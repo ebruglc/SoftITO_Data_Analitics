@@ -30,5 +30,5 @@ Bu proje, NumPy kütüphanesinin temel özelliklerinin ötesine geçerek; **bell
 ## 📂 Dosya Yapısı
 ```text
 02-numpy-ileri-duzey/
-├── README.md                 # Proje açıklama dosyası
-└── numpy_ileri_duzey.ipynb   # Satır satır açıklamalı ileri düzey NumPy kod notebook'u
+├── README.md                 # Proje açıklama dosyası.
+└── numpy_ileri_duzey.ipynb   # Satır satır açıklamalı ileri düzey NumPy kod notebook'u.
